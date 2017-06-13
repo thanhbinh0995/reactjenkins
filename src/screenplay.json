@@ -1,0 +1,8 @@
+{
+  "display-time": 3,
+  "screen-apps": [
+    {"type" : "Clock"},
+    {"type" : "Hello"},
+    {"type" : "Calendar"}
+  ]
+}
